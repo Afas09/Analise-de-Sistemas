@@ -41,13 +41,14 @@
             <mxPoint x="-2" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5yBy5ubpR-fuYYYy7FqI-5" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="5yBy5ubpR-fuYYYy7FqI-5" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.083;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="59IRY9et53XvcOAsyTQL-2" target="5yBy5ubpR-fuYYYy7FqI-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="420" as="sourcePoint" />
-            <mxPoint x="160" y="520" as="targetPoint" />
+            <mxPoint y="440" as="sourcePoint" />
+            <mxPoint x="120" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="40" y="470" />
-              <mxPoint x="160" y="470" />
+              <mxPoint y="490" />
+              <mxPoint x="120" y="490" />
+              <mxPoint x="120" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -204,7 +205,7 @@
           <mxGeometry x="690" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="59IRY9et53XvcOAsyTQL-53" value="&lt;span id=&quot;docs-internal-guid-2adc87cc-7fff-df42-13d4-8e2da55ace7e&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;PERTENCE_A&lt;/span&gt;&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5yBy5ubpR-fuYYYy7FqI-1" value="&lt;span id=&quot;docs-internal-guid-adc0aac2-7fff-4d63-2736-cfba417d1cbf&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;CONTA_DE&lt;/span&gt;&lt;/span&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
