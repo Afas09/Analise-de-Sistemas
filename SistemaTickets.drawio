@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gHh-t5LjryJ9jWmuORSJ-48" value="R2" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gHh-t5LjryJ9jWmuORSJ-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="gHh-t5LjryJ9jWmuORSJ-53" target="I4Ivyc5nr6ezCGU0jaoF-3">
           <mxGeometry relative="1" as="geometry" />
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gHh-t5LjryJ9jWmuORSJ-53" value="R3" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gHh-t5LjryJ9jWmuORSJ-59" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="gHh-t5LjryJ9jWmuORSJ-58" target="I4Ivyc5nr6ezCGU0jaoF-7">
           <mxGeometry relative="1" as="geometry" />
