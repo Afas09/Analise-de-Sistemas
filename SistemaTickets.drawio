@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Página-1" id="FQ1c7I9twIS5Sq4vZ66V">
+    <mxGraphModel dx="2013" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-1" value="DEPARTAMENTO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-2" value="TECNICO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-3" value="CLIENTE" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-4" value="TIPO_CLIENTE" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-5" value="TIPO_URGENCIA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-6" value="TIPO_PROBLEMA" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-7" value="TICKET" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-8" value="MSAS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="I4Ivyc5nr6ezCGU0jaoF-9" target="I4Ivyc5nr6ezCGU0jaoF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-9" value="NumTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="I4Ivyc5nr6ezCGU0jaoF-10" target="I4Ivyc5nr6ezCGU0jaoF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-10" value="NomeTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="530" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-11" value="EmailTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="585" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="I4Ivyc5nr6ezCGU0jaoF-12" target="I4Ivyc5nr6ezCGU0jaoF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-12" value="PassTecnico" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="625" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4Ivyc5nr6ezCGU0jaoF-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.37;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="I4Ivyc5nr6ezCGU0jaoF-11" target="I4Ivyc5nr6ezCGU0jaoF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
