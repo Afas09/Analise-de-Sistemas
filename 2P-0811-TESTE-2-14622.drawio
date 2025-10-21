@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Página-1" id="3JuTgJGZ8qk_Prqm61UE">
-    <mxGraphModel dx="1186" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2983" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-1" value="ADMINISTRADOR_LOG" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="525" width="160" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-2" value="&lt;u&gt;IdAdministrador&lt;/u&gt;&lt;div&gt;DataLog&lt;/div&gt;&lt;div&gt;Log&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-1">
+          <mxGeometry y="50" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-3" value="IMOVEL" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-4" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;&lt;u&gt;Foto&lt;br&gt;&lt;/u&gt;&lt;div&gt;Título&lt;/div&gt;&lt;div&gt;Preco&lt;/div&gt;&lt;div&gt;NumQuartos&lt;/div&gt;&lt;div&gt;NumWC&lt;/div&gt;&lt;div&gt;LatitudeLongitude&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-3">
+          <mxGeometry y="50" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-5" value="LOCALIDADE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="400" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-6" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Localidade&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-5">
+          <mxGeometry y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-7" value="TIPO_ATRIBUTO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="840" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-8" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;TipoAtributo&lt;/div&gt;&lt;div&gt;Ordem&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-7">
+          <mxGeometry y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-9" value="TIPO_IMOVEL" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-10" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;TipoImovel&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-9">
+          <mxGeometry y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-11" value="CIDADE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="40" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-12" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Cidade&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-11">
+          <mxGeometry y="50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-13" value="ATRIBUTO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="800" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-14" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Atributo&lt;/div&gt;&lt;div&gt;Ordem&lt;/div&gt;&lt;div&gt;Ícone ?&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-13">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-19" value="ADMINISTRADOR" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-20" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Nome&lt;/div&gt;&lt;div&gt;User&lt;/div&gt;&lt;div&gt;Pass&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-19">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
