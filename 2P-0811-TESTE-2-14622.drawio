@@ -13,14 +13,14 @@
         <mxCell id="kZ7_r7lV-dHYlGcdujMQ-3" value="IMOVEL" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="160" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-4" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;&lt;u&gt;Foto&lt;br&gt;&lt;/u&gt;&lt;div&gt;Título&lt;/div&gt;&lt;div&gt;Preço&lt;/div&gt;&lt;div&gt;NumQuartos&lt;/div&gt;&lt;div&gt;NumWC&lt;/div&gt;&lt;div&gt;LatitudeLongitude&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-3">
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-4" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;&lt;u&gt;Foto&lt;br&gt;&lt;/u&gt;&lt;div&gt;Titulo&lt;/div&gt;&lt;div&gt;Preço&lt;/div&gt;&lt;div&gt;NumQuartos&lt;/div&gt;&lt;div&gt;NumWC&lt;/div&gt;&lt;div&gt;LatitudeLongitude&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-3">
           <mxGeometry y="50" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kZ7_r7lV-dHYlGcdujMQ-5" value="LOCALIDADE" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="190" width="160" height="150" as="geometry" />
+          <mxGeometry x="740" y="190" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kZ7_r7lV-dHYlGcdujMQ-6" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Localidade&lt;/div&gt;&lt;div&gt;Id&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-5">
-          <mxGeometry y="50" width="160" height="100" as="geometry" />
+          <mxGeometry y="50" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kZ7_r7lV-dHYlGcdujMQ-7" value="TIPO_ATRIBUTO" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="660" width="160" height="100" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="kZ7_r7lV-dHYlGcdujMQ-20" value="&lt;u&gt;Id&lt;/u&gt;&lt;div&gt;Nome&lt;/div&gt;&lt;div&gt;User&lt;/div&gt;&lt;div&gt;Pass&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="kZ7_r7lV-dHYlGcdujMQ-19">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.991;exitY=0.439;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kZ7_r7lV-dHYlGcdujMQ-6" target="kZ7_r7lV-dHYlGcdujMQ-12">
+        <mxCell id="kZ7_r7lV-dHYlGcdujMQ-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kZ7_r7lV-dHYlGcdujMQ-6" target="kZ7_r7lV-dHYlGcdujMQ-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="480" as="sourcePoint" />
             <mxPoint x="810" y="430" as="targetPoint" />
